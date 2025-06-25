@@ -73,10 +73,3 @@ Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento full
 ## 📝 Note
 
 > **Perfil Anterior:** Você pode encontrar mais projetos e contribuições no meu [perfil anterior do GitHub](https://github.com/eliascmendhes/eliascmendhes) (acesso perdido). Este é meu novo perfil onde continuo desenvolvendo e compartilhando código.
-
----
-<div align="center">
-  <i>💡 "Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor"</i>
-  <br><br>
-  <b>⚡ Disponível para novas oportunidades e colaborações</b>
-</div>
