@@ -1,12 +1,7 @@
 # Elias Mendes
-
-**Full Stack Developer**
-
-São Luís, Maranhão, Brasil 🇧🇷
-
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻
 
 ```javascript
 const elias = {
@@ -22,11 +17,11 @@ const elias = {
 };
 ```
 
-Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento full-stack. Sempre em busca de novos desafios e oportunidades de crescimento profissional.
+Sou desenvolvedor com interesse em tecnologias web e foco em aplicações full stack. Gosto de aprender construindo.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tecnologias
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,14 +34,14 @@ Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento full
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Database
+### Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascmendhes&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -59,7 +54,7 @@ Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento full
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Contato
 
 <div align="center">
   
@@ -70,6 +65,6 @@ Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento full
 
 ---
 
-## 📝 Note
+## 📝 Nota
 
 > **Perfil Anterior:** Você pode encontrar mais projetos e contribuições no meu [perfil anterior do GitHub](https://github.com/eliascmendhes/eliascmendhes) (acesso perdido). Este é meu novo perfil onde continuo desenvolvendo e compartilhando código.
